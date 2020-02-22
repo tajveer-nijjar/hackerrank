@@ -14,10 +14,10 @@ namespace C_ {
         private static string CalSum (string value) {
             string[] temp = value.Split (' ');
 
-            int[] arr = Array.ConvertAll (temp, Int32.Parse);
+            int[] ar = Array.ConvertAll (temp, Int32.Parse);
 
             int sum = 0;
-            foreach (var number in arr) {
+            foreach (var number in ar) {
                 sum = sum + number;
             }
 
