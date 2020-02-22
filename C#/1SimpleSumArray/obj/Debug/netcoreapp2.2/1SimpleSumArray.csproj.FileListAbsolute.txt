@@ -1,0 +1,11 @@
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\bin\Debug\netcoreapp2.2\1SimpleSumArray.deps.json
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\bin\Debug\netcoreapp2.2\1SimpleSumArray.runtimeconfig.json
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\bin\Debug\netcoreapp2.2\1SimpleSumArray.runtimeconfig.dev.json
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\bin\Debug\netcoreapp2.2\1SimpleSumArray.dll
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\bin\Debug\netcoreapp2.2\1SimpleSumArray.pdb
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.csprojAssemblyReference.cache
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.csproj.CoreCompileInputs.cache
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.AssemblyInfoInputs.cache
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.AssemblyInfo.cs
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.dll
+D:\PROJECTS\HackerRank\C#\1SimpleSumArray\obj\Debug\netcoreapp2.2\1SimpleSumArray.pdb
