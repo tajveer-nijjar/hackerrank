@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace C_sharp
 {
-    public class Warmpup4_DiagonalDifference
+    public class Warmup4_DiagonalDifference
     {
         internal static void MainEntry()
         {
